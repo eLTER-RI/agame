@@ -1,7 +1,8 @@
 # AGAME project
 https://www.umweltbundesamt.at/en/services/agame
 
-This repository contains the various code contributions to the AGAME project.
+This repository contains the various scripts and configurations to generated and publish the data products in the scope of the AGAME project.
+The data product description as well as the references to the generated and published data records can be found here: https://www.doi.org/10.23728/b2share.14832ed336a44b3c8e284996ffa3202c
 
 
 ## Acknowledgement 
