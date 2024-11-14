@@ -1,4 +1,5 @@
 # AGAME project
+## GeoServer configurations
 https://www.umweltbundesamt.at/en/services/agame
 
 - The .properties file of each layer needs to be modified and get an extra line that says "TimeAttribute=ingestion"
